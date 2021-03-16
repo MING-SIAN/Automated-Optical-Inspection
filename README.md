@@ -12,6 +12,7 @@ batch_size = 30 <br>
 優化器使用adam <br>
 
 ## test
-依據驗證資料集將圖片分類在csv中，依據實驗結果resnet152的驗證結果較佳，在比賽中有著27/98<br>
+依據驗證資料集將圖片分類在csv中，依據實驗結果resnet152的驗證結果較佳，在比賽中有著27/98
+<br>
 ![image](https://github.com/MING-SIAN/Automated-Optical-Inspection/blob/main/%E7%B5%90%E6%9E%9C/%E5%90%8D%E6%AC%A1.jpg)
 
