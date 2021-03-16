@@ -4,7 +4,7 @@
 先將圖片resize成224*224的大小
 使用遷移學習的方式載入resnet101的預訓練模型，並對前四層進行冷凍，進行訓練
 
-其參數如下
+其參數如下<br>
 num_workers = 0
 learning_rate = 0.0001
 EPOCH = 100
