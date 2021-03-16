@@ -5,11 +5,11 @@
 使用遷移學習的方式載入resnet101的預訓練模型，並對前四層進行冷凍，進行訓練
 
 其參數如下<br>
-num_workers = 0
-learning_rate = 0.0001
-EPOCH = 100
-batch_size = 30
-優化器使用adam
+num_workers = 0 <br>
+learning_rate = 0.0001 <br>
+EPOCH = 100 <br>
+batch_size = 30 <br>
+優化器使用adam <br>
 
 ## test
 依據驗證資料集將圖片分類在csv中，依據實驗結果resnet152的驗證結果較佳，在比賽中有著27/98
